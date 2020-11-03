@@ -1,0 +1,12 @@
+__pycache__/
+.DS_Store
+.eggs/
+sample_guillaumebert.egg-info/
+junit-sla.xml
+Pipfile
+Pipfile.lock
+.coverage
+coverage.xml
+htmlcov/
+dist/
+build/
