@@ -23,6 +23,7 @@ python -m twine upload --verbose --repository testpypi dist/*
 python sample
 ```
 Add quick feature on master
+Add quick faeture with wull request on master
 ## use it (installed production version from pip)
 ```
 pip install -i https://test.pypi.org/simple/ --upgrade sample-guillaumebert
