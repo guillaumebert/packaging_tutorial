@@ -39,3 +39,4 @@ python script/runInstalled.py
 ```
 
 Add feature1 base
+Add feature2
