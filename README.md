@@ -38,5 +38,5 @@ pip install -i https://test.pypi.org/simple/ --upgrade --pre sample-guillaumeber
 python script/runInstalled.py
 ```
 
-Add feature1. Continue
+Add feature1. Finish
 Add feature2
